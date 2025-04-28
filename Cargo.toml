@@ -1,0 +1,10 @@
+[package]
+name = "maximum_budgeted_allocation"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/MitI-7/maximum-budgeted-allocation"
+
+[dependencies]
+ordered-float = "5.0.0"
+bitvec = "1.0.1"
+rayon = "1.10.0"
